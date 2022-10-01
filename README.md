@@ -1,6 +1,8 @@
 # Breakout Game
 Game where you control a paddle with the left/right arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API.
 
+[Live Demo](https://shivek-breakout-game.netlify.app/)
+
 # Project Specifications
 • Draw elements on canvas                                                                                
 • Use canvas paths to draw shapes (paddle, ball and bricks)                                              
